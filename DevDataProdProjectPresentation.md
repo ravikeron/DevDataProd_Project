@@ -1,0 +1,45 @@
+Developing Data Products - Course Project
+========================================================
+author: Ravi Keron
+date: Mon May 16 00:21:46 2016
+autosize: true
+transition: rotate
+
+Organization Assessment Application
+========================================================
+
+This Application is built as part of the course project for Developing Data Products session 
+The following tools are used to build the application
+
+
+- shiny to build the application and publish
+- R-Presentation or slidify to create presentations
+
+The Application Details
+========================================================
+
+This Organization Assessment Application is built and is deployed using shiny on the shiny server and is
+available [here](https://rkn2016.shinyapps.io/Assignment/) 
+
+
+The Application does the following
+
+- Read input for 2 parameters Optimized Business Process and Flexibility to Customize
+- The input value should be between 1 and 5 inclusive  
+- Once submitted based on input values calculate the Assessment score
+- Give the Assessment output based on the score received 
+
+The Application Code
+========================================================
+
+The Code for the application is available at [githubrepo](https://github.com/ravikeron/DevDataProd_Project)
+
+The documentation for the application is available on [github](https://github.com/ravikeron/DevDataProd_Project/blob/master/README.md) 
+
+Conclusion
+========================================================
+
+
+- If the score received is equal and above 60, the organization performance is assessed to be **Good**
+
+- If the score received is less than 60, the organization performance is assessed to be **Requiring  Improvement**
