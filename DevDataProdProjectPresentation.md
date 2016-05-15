@@ -1,7 +1,7 @@
 Developing Data Products - Course Project
 ========================================================
 author: Ravi Keron
-date: Mon May 16 00:21:46 2016
+date: Mon May 16 00:46:28 2016
 autosize: true
 transition: rotate
 
@@ -32,11 +32,12 @@ The Application does the following
 The Application Code
 ========================================================
 
-The Code for the application is available at [githubrepo](https://github.com/ravikeron/DevDataProd_Project)
 
-The documentation for the application is available on [github](https://github.com/ravikeron/DevDataProd_Project/blob/master/README.md) 
+The Code and documentation for the application is available at [githubrepo](https://github.com/ravikeron/DevDataProd_Project)
 
-Conclusion
+ 
+
+Results Interpretation
 ========================================================
 
 
