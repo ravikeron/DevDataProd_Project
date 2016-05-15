@@ -12,3 +12,5 @@ Enter values between 1 and 5 in the input fields for Optimized Business Process 
 and the where the organization stands. A small formula(Optimized Business Process * Flexibility to Customize * 4) is used to arrive at the score.
 
 If the input value is either below 1 or beyond 5 the score gives a message input out of bounds and assessment is null.
+
+The Application can be accessed from [here](https://rkn2016.shinyapps.io/Assignment/)
